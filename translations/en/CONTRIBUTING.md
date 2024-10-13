@@ -29,7 +29,7 @@ Committing the report will show that the disruptive change was intended, and as 
 ### Codecov
 In this project, we have introduced [Codecov](https://about.codecov.io/) to measure coverage. Coverage is a measure of how much of the code is covered by the tests.
 
-The coverage measurement is done automatically by CI and no special operation is required. The coverage can be viewed from [here](https://codecov.io/gh/syuilo/aiscript).
+The coverage measurement is done automatically by CI and no special operation is required. The coverage can be viewed from [here](https://codecov.io/gh/aiscript-dev/aiscript).
 
 Also, for each PR, the coverage of that branch is automatically calculated, and the Codecov bot comments a report containing the difference between the coverage of the branch and the coverage of the merged branch. This allows you to see how much coverage is increased/decreased by merging the PRs.
 
